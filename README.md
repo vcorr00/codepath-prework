@@ -40,8 +40,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x](https://imgur.com/gallery/WqUoknU)
-![x](https://imgur.com/gallery/4gp2I9g)
+![x](https://i.imgur.com/yeCnoa1.gif)
+
+![x](https://i.imgur.com/HIzBs6A.gif)
+
 ![](gif3-link-here)
 ![](gif4-link-here)
 
@@ -78,3 +80,4 @@ If you recorded multiple GIFs for all the implemented features, you can add them
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
