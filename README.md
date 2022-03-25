@@ -1,3 +1,4 @@
+
 # Pre-work - _Memory Game_
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
@@ -6,7 +7,7 @@ Submitted by: Vladimir Corrales
 
 Time spent: 4:30 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://three-scarce-recess.glitch.me/)
 
 ## Required Functionality
 
@@ -39,8 +40,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://imgur.com/gallery/WqUoknU)
-![](https://imgur.com/gallery/4gp2I9g)
+![x](https://imgur.com/gallery/WqUoknU)
+![x](https://imgur.com/gallery/4gp2I9g)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
